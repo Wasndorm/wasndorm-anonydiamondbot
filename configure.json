@@ -1,0 +1,16 @@
+{
+    "prefix": "!",
+    "token": "f38a89039e091b8ea9dee770.2891e301-ccc9-44b6-b30e-642b1ca66678",
+    "room": "Wasndorm",
+    "info": {
+        "name": "🌌Wasndorm🌌 ⚔ ｢ 🎄 Merry Christmas! ｣",
+        "color": "#070070"
+    },
+    "permissions": {
+        "admins": ["f38a89039e091b8ea9dee770"],
+        "bans": [" "],
+        "bot": {
+            "owner": "f38a89039e091b8ea9dee770"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mpp-bot-for-gitmoe",
+  "version": "1.0.0",
+  "description": "this bot for rival group",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anonydiamond",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^5.0.0",
+    "midi-player-js": "^2.0.16",
+    "socks-proxy-agent": "^6.1.1",
+    "ws": "^8.4.0"
+  }
+}
